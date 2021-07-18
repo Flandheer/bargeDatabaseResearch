@@ -3,7 +3,7 @@
 ## Intro
 Research into the creation of an fundamental barge database. Fundamental meaning consisting of length, width and capacity information. The script imports the data, analysis, cleans and enriches it by filling NA values.
 
-You can fond more details in my blog post at Medium [Medium](https://medium.com/@frank.landheer/a-complete-barge-directory-cf97edef3e59) 
+You can fond more details in my blog post at [Medium](https://medium.com/@frank.landheer/a-complete-barge-directory-cf97edef3e59) 
 
 ## Installation
 Research is written in python using Jupyter Notebook. The data is retrieved from on online source and offered in .csv file. Machine learning techniques are used to enrich the data. To run the following packages are needed
